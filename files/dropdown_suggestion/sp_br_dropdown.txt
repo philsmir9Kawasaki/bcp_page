@@ -1,0 +1,8 @@
+<option>Geral</option>
+<option>Importação</option>
+<option>Recebimento</option>
+<option>Embalamento</option>
+<option>Remessa</option>
+<option>Vendas</option>
+<option>Faturamento de peças</option>
+<option>Faturamento de motocicletas</option>
